@@ -30,3 +30,4 @@ content = "Hello world!"
 template = "simple-footer"
 
 +++
+Test
